@@ -1,17 +1,17 @@
 {
-  "title": "Azur Lane Comic à la Carte",
-  "description": "The official Comic à la Carte of the popular Azur Lane game!",
-  "artist": "Various",
-  "author": "Various",
-  "cover": "https://i.imgur.com/PKuD3m1.jpg",
-  "chapters": {
-    "01": {
-      "title": "This Is The Fleet Fusion I've Been Looking For!!",
-      "volume": "01",
-      "groups": {
-        "Skeleton Warriors": "/proxy/api/imgur/chapter/k8phcGm/"
-      },
-      "last_updated": "1647805596"
-    },
-  }
+   "title":"Azur Lane Comic à la Carte",
+   "description":"The official Comic à la Carte of the popular Azur Lane game!",
+   "artist":"Various",
+   "author":"Various",
+   "cover":"https://i.imgur.com/PKuD3m1.jpg",
+   "chapters":{
+      "01":{
+         "title":"This Is The Fleet Fusion I've Been Looking For!!",
+         "volume":"01",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/k8phcGm/"
+         },
+         "last_updated":"1647805596"
+      }
+   }
 }
